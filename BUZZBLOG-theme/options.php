@@ -4,8 +4,21 @@
  * By default it uses the theme name, in lowercase and without spaces, but this can be changed if needed.
  * If the identifier changes, it'll appear as if the options have been reset.
  * 
- */
-
+ 
+ af
+ asd
+ asd
+ ad
+ a
+ da
+ D
+ Asd
+ asd
+ asd
+ as
+ Das
+ d
+*/
 if(!function_exists('optionsframework_option_name')) {
 	function optionsframework_option_name() {
 		// This gets the theme name from the stylesheet (lowercase and without spaces)
